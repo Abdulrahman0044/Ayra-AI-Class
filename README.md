@@ -71,6 +71,8 @@ To start the course, open the Jupyter Notebook:
 jupyter notebook
 
 ```
-sh
-or click on the colab icon to open
+### Optional
+
+```sh
+click on the 'open in colab' icon to open
 
