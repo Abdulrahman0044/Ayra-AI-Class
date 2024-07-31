@@ -70,6 +70,7 @@ To start the course, open the Jupyter Notebook:
 ```sh
 jupyter notebook
 
-```sh
+```
+sh
 or click on the colab icon to open
 
