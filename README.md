@@ -128,7 +128,7 @@ To get started, you'll need to have the following installed on your machine:
 - [NumPy](https://numpy.org/install/)
 - [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 - [scikit-learn](https://scikit-learn.org/stable/install.html)
-- [googlecolab](https://colab.research.google.com/)
+- [Google Colaboratory](https://colab.research.google.com/)
 
 ### Installation
 
