@@ -6,29 +6,116 @@ Welcome to the official repository for the Ayra AI Group Class. This class is de
 
 The course will be conducted over 16 days, with each day focusing on a specific topic related to Python and Machine Learning. 
 
-### Day 1-4: Introduction to Python
-- **Day 1**: Python Basics - Variables, Data Types, and Operators
-- **Day 2**: Control Structures - Conditionals and Loops
-- **Day 3**: Functions and Modules
-- **Day 4**: File Handling and Exceptions
+## Week 1: Introduction to Python
 
-### Day 5-8: Intermediate Python
-- **Day 5**: Data Structures - Lists, Tuples, Sets, and Dictionaries
-- **Day 6**: Comprehensions and Lambda Functions
-- **Day 7**: Object-Oriented Programming
-- **Day 8**: Working with Libraries - NumPy and Pandas
+### Day 1 (Saturday):
+- **Topic**: Getting Started with Python
+- **Activities**:
+  - Install Python and set up your development environment (e.g., Anaconda/Google Colaboratory).
+  - Introduction to Python basics: print statements, simple math operations, and variables.
 
-### Day 9-12: Introduction to Machine Learning
-- **Day 9**: Introduction to Machine Learning Concepts
-- **Day 10**: Data Preprocessing and Exploration
-- **Day 11**: Supervised Learning - Regression
-- **Day 12**: Supervised Learning - Classification
+### Day 2 (Sunday):
+- **Topic**: Basic Data Types and Operations
+- **Activities**:
+  - Understanding different data types: integers, floats, strings.
+  - Basic operations with numbers and strings.
 
-### Day 13-16: Advanced Machine Learning
-- **Day 13**: Unsupervised Learning - Clustering
-- **Day 14**: Model Evaluation and Validation
-- **Day 15**: Feature Engineering and Selection
-- **Day 16**: Project Day - Building a Machine Learning Model
+## Week 2: Control Structures
+
+### Day 3 (Saturday):
+- **Topic**: Conditional Statements
+- **Activities**:
+  - Introduction to if, elif, and else statements.
+  - Simple exercises with conditionals.
+
+### Day 4 (Sunday):
+- **Topic**: Loops
+- **Activities**:
+  - Introduction to for and while loops.
+  - Simple loop exercises.
+
+## Week 3: Functions and Lists
+
+### Day 5 (Saturday):
+- **Topic**: Functions
+- **Activities**:
+  - Defining and calling functions.
+  - Using function arguments and return values.
+
+### Day 6 (Sunday):
+- **Topic**: Lists
+- **Activities**:
+  - Introduction to lists.
+  - Basic list operations: indexing, appending, and iterating through lists.
+
+## Week 4: Working with Libraries
+
+### Day 7 (Saturday):
+- **Topic**: Introduction to Libraries
+- **Activities**:
+  - What are libraries?
+  - Importing and using basic libraries like math and random.
+
+### Day 8 (Sunday):
+- **Topic**: Introduction to Pandas
+- **Activities**:
+  - Basics of the Pandas library.
+  - Creating and manipulating simple DataFrames.
+
+## Week 5: Data Visualization
+
+### Day 9 (Saturday):
+- **Topic**: Basic Data Visualization
+- **Activities**:
+  - Introduction to Matplotlib.
+  - Creating simple plots like line graphs and bar charts.
+
+### Day 10 (Sunday):
+- **Topic**: More on Data Visualization
+- **Activities**:
+  - Customizing plots with titles, labels, and colors.
+
+## Week 6: Introduction to Machine Learning
+
+### Day 11 (Saturday):
+- **Topic**: What is Machine Learning?
+- **Activities**:
+  - Basic concepts and types of machine learning.
+  - Real-world examples of machine learning.
+
+### Day 12 (Sunday):
+- **Topic**: Introduction to Scikit-Learn
+- **Activities**:
+  - What is Scikit-Learn?
+  - Loading and exploring a simple dataset.
+
+## Week 7: Simple Machine Learning Models
+
+### Day 13 (Saturday):
+- **Topic**: Basic Regression
+- **Activities**:
+  - Introduction to linear regression.
+  - Building a simple linear regression model.
+
+### Day 14 (Sunday):
+- **Topic**: Basic Classification
+- **Activities**:
+  - Introduction to classification (e.g., decision trees).
+  - Building a simple classification model.
+
+## Week 8: Capstone Project
+
+### Day 15 (Saturday):
+- **Topic**: Project Planning
+- **Activities**:
+  - Define a simple machine learning project.
+  - Collect and prepare data.
+
+### Day 16 (Sunday):
+- **Topic**: Project Implementation
+- **Activities**:
+  - Build and evaluate the model.
+  - Present findings and discuss what was learned.
 
 ## Getting Started
 
