@@ -1,14 +1,14 @@
 ### 📚 📖🧠💡🔍Learning Resources
-- ![Book Icon](https://img.icons8.com/ios-filled/20/000000/book.png) [Control structures](https://web.engr.oregonstate.edu/~webbky/ENGR102_files/Class_14_PythonLoops.pdf)
+- ![Book Icon](https://img.icons8.com/ios-filled/20/000000/book.png) [Control structures](https://web.engr.oregonstate.edu/~webbky/ENGR102_files/Class_14_PythonLoops.pdf):
 A great Tutorial from Oregon State University
 
-- ![Book Icon](https://img.icons8.com/ios-filled/20/000000/book.png) [Visit w3schools website](https://www.w3schools.com/python/python_for_loops.asp)
+- ![Book Icon](https://img.icons8.com/ios-filled/20/000000/book.png) [Visit w3schools website](https://www.w3schools.com/python/python_for_loops.asp):
 A curated list of Python Tutorials for control structures
 
-- ![Book Icon](https://img.icons8.com/ios-filled/20/000000/book.png) [Visit geeksforgeeks website](https://www.geeksforgeeks.org/loops-in-python/)
+- ![Book Icon](https://img.icons8.com/ios-filled/20/000000/book.png) [Visit geeksforgeeks website](https://www.geeksforgeeks.org/loops-in-python/):
 A python related tutorial on for loop
 
-- ![Book Icon](https://brandslogos.com/wp-content/uploads/images/large/python-logo.png) [Official Python Documentation](https://docs.python.org/3/tutorial/controlflow.html)
+- ![Book Icon](https://img.icons8.com/ios-filled/20/000000/book.png) [Official Python Documentation](https://docs.python.org/3/tutorial/controlflow.html):
  The official resource for Python documentation, tutorials, and guides.
 
 
