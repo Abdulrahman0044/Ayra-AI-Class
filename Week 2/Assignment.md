@@ -27,7 +27,7 @@ Use if, elif, and else statements to check the age and print:
 
 "You are a senior citizen." if the age is 65 or older.
 
-Hint:
+***Hint:***
 You will use comparison operators (<, <=, >=) to determine which message to print based on the user's age.
 
 #### Task2: Even numbers
