@@ -20,17 +20,21 @@ Write a Python script that takes an age as 34 and returns a message indicating w
 #### Instructions:
 
 Use if, elif, and else statements to check the age and print:
+
 "You are a minor." if the age is less than 18.
+
 "You are an adult." if the age is between 18 and 64 (inclusive).
+
 "You are a senior citizen." if the age is 65 or older.
 
 Hint:
 You will use comparison operators (<, <=, >=) to determine which message to print based on the user's age.
 
-#### Task2: Multiplication Table
+#### Task2: Even numbers
 Create a Python script that prints all even numbers from 1 to 100, each on a new line.
 
 #### Instructions:
 
-Use a for loop to iterate through numbers from 1 to 100.
+Use python loop to iterate through numbers from 1 to 100.
+
 Print each number on a new line.
